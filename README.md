@@ -4,9 +4,9 @@ Je suis un futur finissant de la Techniques d’intégration multimédia au
 Cégep Édouard-Montpetit. Je suis principalement passionné de web, de 3d et de design.
 
 ## Je parle :
-![HTML](https://simpleicons.org/icons/html5.svg)
-![CSS](https://simpleicons.org/icons/css3.svg)
-![JavaScript](https://simpleicons.org/icons/javascript.svg)
+![HTML](https://simpleicons.org/icons/html5.svg =30x30)
+![CSS](https://simpleicons.org/icons/css3.svg =30x30)
+![JavaScript](https://simpleicons.org/icons/javascript.svg =30x30)
 
 
 ## Projets
