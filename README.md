@@ -3,7 +3,7 @@
 
 - Je travaille actuellement sur mon **Portfolio**
 
-- Mon Portfolio (wlavoie.ca)
+- Mon Portfolio wlavoie.ca
 
 - Mon email est : **wilem.lavoie@gmail.com**
 
