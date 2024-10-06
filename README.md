@@ -1,16 +1,25 @@
-## Bonjour! Je suis Wilem Lavoie
+# Bonjour, je suis Wilem Lavoie et bienvenue sur mon GitHub!
 
-<!--
-**iwelm/iwelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un futur finissant de la Techniques d’intégration multimédia au 
+Cégep Édouard-Montpetit. Je suis principalement passionné de web, de 3d et de design.
 
-Here are some ideas to get you started:
+## Je parle :
+![HTML](https://simpleicons.org/icons/html5.svg)
+![CSS](https://simpleicons.org/icons/css3.svg)
+![JavaScript](https://simpleicons.org/icons/javascript.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Projets
+Voici quelques-uns de mes projets récents :
+- [Nom du projet 1](lien) - Une brève description de ce projet.
+- [Nom du projet 2](lien) - Une brève description de ce projet.
+  
+## Compétences
+- 🔧 Langages : [ex : JavaScript, Python, etc.]
+- 🛠️ Outils : [ex : Git, Docker, etc.]
+
+## Contact
+N'hésite pas à me contacter :
+- 📧 Email : [ton email]
+- 🌐 LinkedIn : [lien vers ton profil LinkedIn]
+
