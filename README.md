@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour, je suis Wilem Lavoie</h1>
-<h3 align="center">Je suis un futur finissant de la Techniques d’intégration multimédia au Cégep Édouard-Montpetit. Je suis principalement passionné de web, de 3d et de design.</h3>
+<h3 align="center">Je suis un futur finissant de la Techniques d’intégration multimédia au Cégep Édouard-Montpetit. Je suis principalement passionné de web, de 3d et de design. J'aimerais devenir Développeur front-end junior</h3>
 
-- Je travaille actuellement sur mon **Portfolio**
+- Je travaille actuellement sur un **nouveau projet**
 
 - Mon Portfolio [wlavoie.ca](https://wlavoie.ca/)
 
